@@ -45,7 +45,7 @@ The goal is to support **better decision-making in healthcare planning**.
 
 ```
 ├── isochrones.ipynb      # Main notebook
-├── data/                 # Input datasets (optional / not included)
+├── data/                 # Input datasets
 ├── outputs/              # Generated maps and results
 └── README.md
 ```
