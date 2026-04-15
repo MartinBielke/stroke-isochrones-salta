@@ -72,6 +72,8 @@ pip install osmnx geopandas networkx folium pandas
 jupyter notebook
 ```
 
+Nota para ejecutar: Asegurate de ejecutar jupyter notebook dentro de la carpeta raíz del repositorio (la que contiene isochrones.ipynb y las carpetas data/, outputs/).
+
 ---
 
 ## 🌎 Results
